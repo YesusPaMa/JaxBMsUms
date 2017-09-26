@@ -1,2 +1,2 @@
 # JaxBMsUms
-Proyecto básica usando JAXB convertir XML a JAVA &amp; JAVA a XML
+Proyecto básico usando JAXB para convertir XML a JAVA &amp; JAVA a XML
